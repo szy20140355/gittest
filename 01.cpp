@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	puts("hello world!");
+	puts("on dev branch");
 	return 0;
 }
